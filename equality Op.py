@@ -1,0 +1,11 @@
+10==20
+False
+10!=20
+True
+10==True
+False
+False==False
+True
+"jyothi"=="jyothi"
+True
+10=="jyothi"
