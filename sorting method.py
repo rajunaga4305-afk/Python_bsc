@@ -1,0 +1,10 @@
+#reverse
+l5=[1,2,6,3,2,80,75,43]
+print(l5)
+l5.reverse() 
+print(l5)
+l5.sort(reverse=True)
+print(l5)
+l6=l5.copy()
+print(l6)
+print(len(l5))
